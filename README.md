@@ -137,7 +137,7 @@ p.note { display: none; }
 <h2><span class="yellow">月齢は 18.7</span></h2>
 <a href="20250217_3.jpg" target="_blank"><img src="20250217_3.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">日の出のクラデーションは綺麗でした</span></h2>
+<h2><span class="yellow">日の出の空は綺麗でした</span></h2>
 <a href="20250217_4.jpg" target="_blank"><img src="20250217_4.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">庭のお花達も皆お目覚め</span></h2>
