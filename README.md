@@ -182,7 +182,7 @@ p.note { display: none; }
 <a href="20250217_20.jpg" target="_blank"><img src="20250217_20.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250217_21.jpg" target="_blank"><img src="20250217_21.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">久々の夕焼け紫グラデーション</span></h2>
+<h2><span class="yellow">久々の夕焼け紫グラデーション<br>木の上には宵の明星「金星」が輝きました</span></h2>
 <a href="20250217_22.jpg" target="_blank"><img src="20250217_22.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ホームセンターで材料調達できたので、二つ目の自動水やり器が完成</span></h2>
