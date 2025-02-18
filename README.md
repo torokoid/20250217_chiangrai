@@ -147,7 +147,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">FaceBookで見つけた簡易水やり器の作成方法<br>画像のクリックで動画再生します ↓</span></h2>
 <a href="https://fb.watch/xOYLfUCX9e/" target="_blank"><img src="20250217_001.png" alt="サンプル画像" width="900" /></a>
-    
+
+<h2><span class="yellow">有り合わせの材料で早速一つ作って庭に設置</span></h2>
 <a href="20250217_8.jpg" target="_blank"><img src="20250217_8.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ニワトリ一家に珍しくオンドリが合流</span></h2>
@@ -158,7 +159,7 @@ p.note { display: none; }
 <a href="20250217_11.jpg" target="_blank"><img src="20250217_11.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250217_12.jpg" target="_blank"><img src="20250217_12.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">ネジ類などは専門のホームセンターで購入</span></h2>
+<h2><span class="yellow">水やり器用のネジ類などは専門のホームセンターで購入</span></h2>
 <a href="20250217_13.jpg" target="_blank"><img src="20250217_13.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">いつもながらすごい広さです</span></h2>
